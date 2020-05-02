@@ -1,2 +1,5 @@
 1.i need to manually refresh each client's chat page
+
+-- i got its ans:  The flask run command introduced in Flask 0.11 can be used to start a Flask-SocketIO development server based on Werkzeug, but this method of starting the Flask-SocketIO server is not recommended due to lack of WebSocket support.
+
 2.each client can only send one message at a time to be seen by others else last message will be seen when other clients refresh their chat page.
