@@ -1,0 +1,2 @@
+1.i need to manually refresh each client's chat page
+2.each client can only send one message at a time to be seen by others else last message will be seen when other clients refresh their chat page.
